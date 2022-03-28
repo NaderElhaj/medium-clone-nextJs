@@ -11,10 +11,11 @@ function Header() {
                 <h3>
                     About
                 </h3>
+
                 <h3>
                     Contact
                 </h3>
-                <h3 className="text-white bg-green-600 rounded-full px-4 py-1">
+                <h3 className="text-white bg-green-600 rounded-full px-4 py-1 text-x">
                     Follow
                 </h3>
             </div>
